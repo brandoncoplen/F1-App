@@ -1,8 +1,26 @@
-#h1{
-    color: red;
-    font-size: large;
+#driverName{
+  width: fit-content;  
 }
 
 #like_button_container{
     color: aqua;
 }
+
+ #driverSection{
+contain: content;
+flex: content;
+align-items: center;
+ }
+
+ .driverCard{
+    contain: content;
+    flex: content;
+    border: 1px solid black;
+    width: fit-content;
+    margin: 1%;
+    padding: 1%;
+    float: left;
+    
+ }
+
+ 
